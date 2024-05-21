@@ -1,6 +1,6 @@
 # Wealth-Distribution-Among-Billionaires-Project
 
- ### [YouTube Demo](https://youtu.be/4zxh6LH5hiM)
+ ### [YouTube Demo](https://youtu.be/NXOUTIyeGuM)
 
 <h2>Description</h2>
 In this project, I analyze the wealth distribution of billionaires worldwide using an annually updated dataset. The goal is to uncover patterns and influential factors, utilizing advanced statistical and machine learning techniques for insights into global economic structures and disparities.
